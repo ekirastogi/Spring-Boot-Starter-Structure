@@ -1,4 +1,4 @@
-package com.fame.response.base;
+package com.ekiras.response.base;
 
 /**
  * @author ekansh

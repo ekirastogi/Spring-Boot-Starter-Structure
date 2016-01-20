@@ -1,17 +1,17 @@
-package com.fame.response;
+package com.ekiras.response;
 
-import com.fame.response.base.ResponseDTO;
+import com.ekiras.response.base.ResponseDTO;
 
 /**
  * @author ekansh
  * @since 20/1/16
  */
-public class SuccessResponseDTO<T> extends ResponseDTO<T> {
+public class ErrorResponseDTO<T> extends ResponseDTO<T> {
 
     private T data;
     private String message;
     private Integer code = 200;
-    private Integer status = 1;
+    private Integer status = 0;
 
 
     public T getData() {

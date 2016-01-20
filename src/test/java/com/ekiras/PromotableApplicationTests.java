@@ -1,4 +1,4 @@
-package com.fame;
+package com.ekiras;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

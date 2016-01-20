@@ -1,8 +1,8 @@
-package com.fame.handler.exception;
+package com.ekiras.handler.exception;
 
-import com.fame.exception.base.BaseException;
-import com.fame.response.ErrorResponseDTO;
-import com.fame.response.base.ResponseDTO;
+import com.ekiras.exception.base.BaseException;
+import com.ekiras.response.ErrorResponseDTO;
+import com.ekiras.response.base.ResponseDTO;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestController;

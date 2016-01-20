@@ -1,4 +1,4 @@
-package com.fame.util.codes;
+package com.ekiras.util.codes;
 
 /**
  * @author ekansh

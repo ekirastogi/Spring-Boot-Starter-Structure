@@ -1,6 +1,6 @@
-package com.fame.exception.base;
+package com.ekiras.exception.base;
 
-import com.fame.util.codes.StatusCodes;
+import com.ekiras.util.codes.StatusCodes;
 
 /**
  * @author ekansh
